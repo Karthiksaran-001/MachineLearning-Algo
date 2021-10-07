@@ -7,5 +7,4 @@ here i build a mode on some popular Algorithm
 3. Decistion Tree
 4. Bagging(Random Forest)
 5. KNN
-6. 
-7. Navie Bayes
+6. Navie Bayes
